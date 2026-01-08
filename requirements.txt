@@ -1,0 +1,7 @@
+torch
+transformers
+peft
+scikit-learn
+numpy
+tqdm
+safetensors
